@@ -2,11 +2,11 @@ A two-person predictive analytics project focused on identifying hotel reservati
 
 Tools & Techniques: RapidMiner, Data Cleaning & Preparation, Decision Trees, Parameter Optimization, Cross-Validation, Model Evaluation, Confusion Matrix, Performance Testing, Data Visualization
 
-My Contribution
-Cleaned and prepared the dataset for analysis
-Developed and evaluated the decision tree models
-Performed parameter optimization to improve model performance
-Conducted model validation and performance testing
+My Contribution:
+Cleaned and prepared the dataset for analysis,
+Developed and evaluated the decision tree models,
+Performed parameter optimization to improve model performance,
+Conducted model validation and performance testing,
 Contributed to the overall analysis and interpretation of results
 
 Project Objective: The goal of the model was to predict whether a hotel booking would be cancelled before it happened. By analyzing patterns in historical booking data, the model attempted to identify reservations at higher risk of cancellation, allowing hotels to potentially take action before the scheduled stay.
