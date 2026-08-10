@@ -3,7 +3,7 @@ A team-based data analysis project comparing two NYC taxi vendors to identify di
 Tools: Microsoft Excel, Tableau
 
 My Contribution:
-created data visualizations to communicate key findings,
+Created data visualizations to communicate key findings,
 developed Tableau dashboards to organize and present the analysis,
 helped structure the story and flow of the final analysis,
 conducted outside research to provide context and support the team's findings,
