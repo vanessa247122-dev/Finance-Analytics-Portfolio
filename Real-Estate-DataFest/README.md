@@ -8,11 +8,11 @@ Python
 Tableau
 Canva
 
-My Contribution
-Cleaned and prepared the dataset for analysis
-Helped develop data visualizations
-Conducted supporting research
-Helped structure the team's approach by breaking down the dataset and determining where to begin the analysis
+My Contribution:
+Cleaned and prepared the dataset for analysis,
+Helped develop data visualizations,
+Conducted supporting research,
+Helped structure the team's approach by breaking down the dataset and determining where to begin the analysis,
 Collaborated with the team to develop and present our findings within the 72-hour competition
 
 Project Deliverable
