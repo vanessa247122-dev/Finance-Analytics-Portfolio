@@ -16,4 +16,4 @@ Helped structure the team's approach by breaking down the dataset and determinin
 Collaborated with the team to develop and present our findings within the 72-hour competition
 
 Project Deliverable
-Final Presentation
+Presentation
