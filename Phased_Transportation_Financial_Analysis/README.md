@@ -2,10 +2,10 @@ A financial analysis project comparing three transportation strategies over a fi
 
 Tools & Techniques: Python, Microsoft Excel, Microsoft PowerPoint, Financial Modeling, Time Value of Money, Discounted Cash Flow, Sensitivity Analysis, Decision Matrix Analysis, Data Visualization
 
-Project Deliverables
+Project Deliverables:
 Excel Financial Model: financial modeling, calculations, and sensitivity analysis.
 Python: used for data visualization.
 Presentation summarizing the analysis, findings, and recommendation.
 
-Recommendation
+Recommendation:
 The analysis recommended a phased Hybrid transportation strategy based on its balance of cost, flexibility, and long-term financial considerations.
